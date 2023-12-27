@@ -80,6 +80,10 @@
     right: 100px;
     font-size: 17px;
 }
+.text__1{
+    position: absolute;
+    width: 100px;
+}
 
 
 .comic__item5 .cloud2 {
